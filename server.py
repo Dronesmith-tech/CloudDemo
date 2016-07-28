@@ -5,8 +5,8 @@ import json
 
 PORT = 8080
 
-USER_EMAIL      = 'geoff@skyworksas.com'
-USER_API_KEY    = '7a7c9a8a-7216-44b7-9423-737eb8c81684'
+USER_EMAIL      = 'YOUR_DRONESMITH_CLOUD_EMAIL'
+USER_API_KEY    = 'YOUR_DRONESMITH_CLOUD_API_KEY'
 DRONE_NAME      = 'bobby'
 
 
